@@ -7,6 +7,6 @@
 
 
 <div align="center">
-     <img src="./img/tela_login.png" />
-     <img src="./img/tela_lista_estacionados.png" />
+     <img src="./img/tela_login.png"  width="200"/>
+     <img src="./img/tela_lista_estacionados.png" width="200" />
 </div>
