@@ -6,7 +6,7 @@
 </h4>
 
 
-<div align="center">
-     <img src="./img/tela_login.png"  width="200"/>
-     <img src="./img/tela_lista_estacionados.png" width="200" />
+<div>
+     <img src="./img/tela_login.png"  width="700"/>
+     <img src="./img/tela_lista_estacionados.png" width="700" />
 </div>
