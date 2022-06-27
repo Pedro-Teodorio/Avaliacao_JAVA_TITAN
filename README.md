@@ -16,51 +16,51 @@
 #### Retorna a tela de login
 
 ```http
-  GET /
+  GET localhost:8080/
 ```
 
 #### Verifica de usuário e senha é válido se válido loga
 
 ```http
-  POST /
+  POST localhost:8080/
 ```
 
 #### Retorna a tela de lista de veículos estacionados
 
 ```http
-  GET {id}/lista
+  GET localhost:8080/{id}/lista
 ```
 
 #### Retorna a tela de lista de veículos que já sairam do estacionamento
 ```http
-  GET {id}/lista/sairam
+  GET localhost:8080/{id}/lista/sairam
 ```
 
 #### Retorna a tela do formulário de cadastro de veículos
 ```http
-  GET movimentacao/{id}"
+  GET localhost:8080/movimentacao/{id}"
 ```
 #### Faz a requisição para salvar o formulário de cadastro de veículos
 ```http
-  POST movimentacao/add"
+  POST localhost:8080/movimentacao/add"
 ```
 
 #### Retorna a tela do formulário de edição de veículos
 ```http
-  GET movimentacao/editar/{id}"
+  GET localhost:8080/movimentacao/editar/{id}"
 ```
 #### Faz a requisição para salvar a edição formulário de edição de veículos
 ```http
-  POST movimentacao/editar/{id}"
+  POST localhost:8080/movimentacao/editar/{id}"
 ```
 
 #### Retorna a tela do formulário de saída de veículos
 ```http
-  GET movimentacao/saida/{id}"
+  GET localhost:8080/movimentacao/saida/{id}"
 ```
 #### Faz a requisição para salvar o formulário de saída de veículos
 ```http
-  POST movimentacao/saida/{id}"
+  POST localhost:8080/movimentacao/saida/{id}"
 ```
 ## Demonstração
 
